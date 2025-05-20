@@ -1,7 +1,7 @@
 class Fibonacci {
   public static void main(String[] args) {
 
-    int n = 100, firstTerm = 0, secondTerm = 1;
+    int n = 143, firstTerm = 0, secondTerm = 1;
         
     System.out.println("Fibonacci Series Upto " + n + ": ");
     
